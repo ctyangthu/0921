@@ -1,0 +1,7 @@
+{
+  "name": "股票技術與消息面綜合判斷儀",
+  "description": "即時整合股票技術面指標（MA5/20/60/120/240線、KD、RSI、MACD、布林通道）與即時財經新聞情緒爬蟲分析，提供30/60/90天、半年線、一年線全週期技術與多空綜合研判。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
